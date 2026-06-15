@@ -1,0 +1,17 @@
+[
+  {
+    "nome": "Parque Ibirapuera",
+    "tipo": "Ponto de coleta",
+    "regiao": "Zona Sul de São Paulo"
+  },
+  {
+    "nome": "Parque do Cordeiro",
+    "tipo": "Ponto de coleta",
+    "regiao": "Zona Sul de São Paulo"
+  },
+  {
+    "nome": "Eco Ponto RIOSUL",
+    "tipo": "Ecoponto",
+    "regiao": "Zona Sul de São Paulo"
+  }
+]
